@@ -60,8 +60,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ## `Laboratorio DIO.`
 
-<img align="center" src="./imgs/Imagem10
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem10.jpg" width=""/>
 
 ##
 
@@ -82,8 +81,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ## `Laboratorio DIO.`
 
-<img align="center" src="./imgs/Imagem11
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem11.jpg" width=""/>
 
 ##
 
@@ -93,8 +91,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ## `Laboratorio DIO.`
 
-<img align="center" src="./imgs/Imagem12
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem12.jpg" width=""/>
 
 ##
 
@@ -104,14 +101,11 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ## `Laboratorio DIO.`
 
-<img align="center" src="./imgs/Imagem14
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem14.jpg" width=""/>
 .
-<img align="center" src="./imgs/Imagem15
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem15.jpg" width=""/>
 .
-<img align="center" src="./imgs/Imagem16
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem16.jpg" width=""/>
 .
 
 ##
@@ -122,11 +116,9 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ## `Laboratorio DIO.`
 
-<img align="center" src="./imgs/Imagem17
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem17.jpg" width=""/>
 .
-<img align="center" src="./imgs/Imagem18
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem18.jpg" width=""/>
 
 ##
 
@@ -136,8 +128,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ## `Laboratorio DIO.`
 
-<img align="center" src="./imgs/Imagem19
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem19.jpg" width=""/>
 
 ##
 
