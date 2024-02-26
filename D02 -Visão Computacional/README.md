@@ -70,8 +70,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ## `Laboratorio DIO.`
 
-<img align="center" src="./imgs/Imagem09
-.jpg" width=""/>
+<img align="center" src="./imgs/Imagem09.jpg" width=""/>
 
 ##
 
