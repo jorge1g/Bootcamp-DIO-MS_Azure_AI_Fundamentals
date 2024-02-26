@@ -8,11 +8,11 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure1.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem01.jpg" width=""/>
 .
@@ -20,21 +20,21 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure2.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem03.jpg" width=""/>
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure3.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem04.jpg" width=""/>
 .
@@ -44,50 +44,50 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure4.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem08.jpg" width=""/>
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure5.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem10
 .jpg" width=""/>
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure6.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem09
 .jpg" width=""/>
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure7.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem11
 .jpg" width=""/>
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure8.png" width=""/>
 
@@ -98,11 +98,11 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure9.png" width=""/>
 
-## _Laboratorio DIO._
+## `Laboratorio DIO.`
 
 <img align="center" src="./imgs/Imagem14
 .jpg" width=""/>
@@ -116,7 +116,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure10.png" width=""/>
 
@@ -130,7 +130,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure11.png" width=""/>
 
@@ -141,7 +141,7 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 
 ##
 
-# Microsoft Learning.
+# `Microsoft Learning.`
 
 <img align="center" src="./imgs/Azure12.png" width=""/>
 
